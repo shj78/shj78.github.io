@@ -17,5 +17,5 @@ sidebar-category:
         url: "/categories/language/"
       - title: "코딩테스트"
         url: "/categories/codingtest/"
-      - title: "framework-library"
-        url: "/categories/프레임워크와-라이브러리/"
+      - title: "프레임워크와 라이브러리"
+        url: "/categories/framework-library/"
