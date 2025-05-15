@@ -23,7 +23,7 @@ locale                   : "en-US"
 title                    : "데브 딥씨"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyejin Sim"
+name                     : "심혜진"
 description              : "An dreaming website."
 url                      : "https://shj78.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
