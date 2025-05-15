@@ -11,9 +11,11 @@ main:
 sidebar-category:
   - title: "카테고리"
     children:
-      - title: "일상"
-        url: "/categories/일상/"
-      - title: "개발"
-        url: "/categories/개발/"
-      - title: "공부"
-        url: "/categories/공부/"
+      - title: "도서"
+        url: "/categories/도서/"
+      - title: "언어"
+        url: "/categories/언어/"
+      - title: "코딩테스트"
+        url: "/categories/코딩테스트/"
+      - title: "프레임워크와 라이브러리"
+        url: "/categories/프레임워크와-라이브러리/"
