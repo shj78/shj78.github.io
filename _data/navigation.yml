@@ -1,16 +1,9 @@
-main:
-  - title: "Home"
-    url: /
-
-  - title: "Blog"
-    url: /categories/
+sidebar-category:
+  - title: "카테고리"
     children:
       - title: "일상"
-        url: /categories/일상/
+        url: "/categories/일상/"
       - title: "개발"
-        url: /categories/개발/
+        url: "/categories/개발/"
       - title: "공부"
-        url: /categories/공부/
-
-  - title: "About"
-    url: /about/
+        url: "/categories/공부/"
