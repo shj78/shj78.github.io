@@ -1,3 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Blog"
+    url: /categories/
+
+  - title: "About"
+    url: /about/
+
 sidebar-category:
   - title: "카테고리"
     children:
