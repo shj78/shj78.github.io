@@ -20,7 +20,7 @@ header:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "데브 딥씨"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyejin Sim"
