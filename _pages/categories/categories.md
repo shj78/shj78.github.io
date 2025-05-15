@@ -1,6 +1,7 @@
 ---
-title: "Categories"
-layout: categories
+layout: archive
+title: "Blog"
 permalink: /categories/
-author_profile: true
+sidebar:
+  nav: "sidebar-category"
 ---
