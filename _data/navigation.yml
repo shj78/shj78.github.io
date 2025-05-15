@@ -12,7 +12,7 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "도서"
-        url: "/categories/boot/"
+        url: "/categories/book/"
       - title: "언어"
         url: "/categories/language/"
       - title: "코딩테스트"
