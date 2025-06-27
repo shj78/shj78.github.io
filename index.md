@@ -4,7 +4,7 @@ category: example
 title: Hyejin Sim
 ---
 
-###### Fullstack Developer
+###### Developer 
 
 [github](https://github.com/shj78?tab=repositories)
 
