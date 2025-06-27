@@ -1,9 +1,10 @@
 ---
 layout: post
 category: example
-title: Hyejin Sim
+title:🌊
 ---
 
+# Hyejin Sim
 ###### Developer 
 
 [github](https://github.com/shj78?tab=repositories)
