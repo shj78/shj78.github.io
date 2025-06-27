@@ -1,8 +1,10 @@
 ---
 layout: post
 category: example
-title: Hyejin
+title: Hyejin Sim
 ---
+
+###### Fullstack Developer
 
 [github](https://github.com/shj78?tab=repositories)
 
