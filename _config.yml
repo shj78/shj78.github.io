@@ -1,0 +1,14 @@
+title: "데브 딥씨"
+author: "Hyejin Sim"
+description: "An dreaming website."
+url: "https://shj78.github.io"
+baseurl: ""
+
+remote_theme: riggraz/no-style-please
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+theme: null
+
