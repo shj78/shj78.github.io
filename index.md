@@ -1,7 +1,7 @@
 ---
 layout: post
 category: example
-title:🌊
+title: .𖥔 ݁ ˖ ⋅˚₊‧ﾟ･ ☆ ° ｡
 ---
 
 # Hyejin Sim
